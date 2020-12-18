@@ -1,6 +1,9 @@
 # Introduction
 
 This sets up and runs a docker instance of Direwolf20's 1.16 modpack minecraft server using [itzg/minecraft-server](https://github.com/itzg/docker-minecraft-serverhttps://github.com/itzg/docker-minecraft-server) image. 
+
+Pull Requests and suggestions for improvements are welcome.
+
 ## Client Setup
 [Download](https://www.feed-the-beast.com/modpack/ftb_presents_direwolf20_1_16) the FTB client
 install it and select the Direwolf20 1.16 mod pack
