@@ -10,7 +10,7 @@ services:
       - /etc/timezone:/etc/timezone:ro
     environment:
       EULA: 'TRUE'
-      SEED: DW20LP116SUPERHYPE
+      SEED: DW20LP116SUPERHYPE # this is the seed Direwolf is using in his stream, delete this line if you want a random seed
       VERSION: 1.16.4
       TYPE: 'FTBA'
       FTB_MODPACK_ID: 79
