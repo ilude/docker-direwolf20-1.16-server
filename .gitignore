@@ -1,0 +1,5 @@
+.env
+!.keep
+data/
+.vs/
+config/
