@@ -1,8 +1,11 @@
 # Introduction
 
-This sets up and runs a docker instance of Direwolf20's 1.16 modpack minecraft server using [itzg/minecraft-server](https://github.com/itzg/docker-minecraft-serverhttps://github.com/itzg/docker-minecraft-server) image.
+This sets up and runs a docker instance of Direwolf20's 1.16 modpack minecraft server using [itzg/minecraft-server](https://github.com/itzg/docker-minecraft-serverhttps://github.com/itzg/docker-minecraft-server) image. 
+## Client Setup
+[Download](https://www.feed-the-beast.com/modpack/ftb_presents_direwolf20_1_16) the FTB client
+install it and select the Direwolf20 1.16 mod pack
 
-## Getting started 
+## Server Setup
 
 Create an .env file with the following settings 
 
@@ -10,7 +13,6 @@ Create an .env file with the following settings
     WHITELIST=<comma separated  list of allowed users>
     OPS=<comma separated  list of ops users>
     MOTD=<Message of the Day>
-
 
 ## To Run:
 
